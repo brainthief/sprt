@@ -1,6 +1,14 @@
-2. Leg Curl
-Starting position: Stand facing the apparatus. The lower curl roller is at the level
-of the Achilles tendon. The upper curl roller is just above the knee cap. The tips of
+# 2. Leg Curl
+
+__Starting position__: Stand facing the apparatus. The lower curl roller is at the level of the Achilles tendon. The upper curl roller is just above the knee cap. The tips of
 the feet are raised.
-Movement: Pull the ankle up towards the seat.
-Muscles used: Leg-bending muscles, seat muscles
+
+__Movement__: Pull the ankle up towards the seat.
+
+![001](001.png)
+
+![002](002.png)
+
+__Muscles used__: Leg-bending muscles, seat muscles
+
+![003](003.png)
