@@ -1,7 +1,15 @@
-3. Cable Hip Extension
-Starting position: Fold the seat in. Hook the foot loop onto the lower rope pulley.
-Stand facing the apparatus with the torso leaning slightly forward. The foot loop
+# 3. Cable Hip Extension
+
+__Starting position__: Fold the seat in. Hook the foot loop onto the lower rope pulley. Stand facing the apparatus with the torso leaning slightly forward. The foot loop
 is above the ankle joint.
-Movement: Move the stretched leg backwards. Avoid forming a hollow back (keep
+
+__Movement__: Move the stretched leg backwards. Avoid forming a hollow back (keep
 the belly muscles tense).
-Muscles used: Seat muscles
+
+![001](001.png)
+
+![002](002.png)
+
+__Muscles used__: Seat muscles
+
+![003](003.png)
