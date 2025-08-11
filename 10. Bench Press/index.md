@@ -8,6 +8,7 @@ __Movement__: Push the bar forward. Do not fully straighten the elbows. Then all
 
 ![002](002.png)
 
-Muscles used: Chest muscles, triceps, front shoulder muscles
+__Muscles used__: Chest muscles, triceps, front shoulder muscles
 
 ![003](003.png)
+
