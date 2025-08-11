@@ -29,6 +29,6 @@
 - [27. Crosswise pul](./27.%20Crosswise%20pull/readme.md)
 - [28. Inward shoulder rotation](./28.%20Inward%20shoulder%20rotation/readme.md)
 - [29. Outward shoulder rotation](./29.%20Outward%20shoulder%20rotation/readme.md)
-- [30. Cable Crunches](./01.%20Leg%20Extension/readme.md)
+- [30. Cable Crunches](./30.%20Cable%20Crunches/readme.md)
 - [31. Side Bend](./31.%20Side%20Bend/readme.md)
 
