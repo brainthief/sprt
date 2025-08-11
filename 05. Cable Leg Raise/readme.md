@@ -8,8 +8,9 @@ __Movement__: Lift the knee and lower it again slowly. Keep the body erect.
 
 ![002](002.png)
 
-_Muscles used_: Thigh-bending muscles
+__Muscles used__: Thigh-bending muscles
 
 ![003](003.png)
 
 __Variant__: In lying position
+
